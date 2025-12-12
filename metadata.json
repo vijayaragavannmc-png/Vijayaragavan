@@ -1,0 +1,5 @@
+{
+  "name": "GenAI Text Generator",
+  "description": "A modern, responsive AI text generation application using Google's Gemini 2.5 Flash model.",
+  "requestFramePermissions": []
+}
